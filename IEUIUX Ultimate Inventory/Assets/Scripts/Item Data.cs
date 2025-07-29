@@ -19,35 +19,11 @@ public class ItemData : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (isHolding)
-        {
-            GetComponent<Transform>().position = Input.mousePosition;
-        }
-
-        if (Input.GetMouseButtonUp(0))
-        {
-            Release();
-        }
+       
     }
 
     public void PickUp()
     {
-        Debug.Log("Held");
-        isHolding=true;
-        if (GetComponent<LayoutElement>() != null) GetComponent<LayoutElement>().ignoreLayout = true;
+        GameObject.Find("Main Manager").GetComponent<MainManager>().ActivateItemData(this);
     }
-
-    private void Release() {
-        Debug.Log("Released");
-        isHolding =false;
-        if (GetComponent<LayoutElement>() != null) GetComponent<LayoutElement>().ignoreLayout = false;
-    }
-
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    if (collision.tag == "Inventory")
-    //    {
-    //        inventoryManager.GetComponent<InventoryManager>().AddToInventory(MakeNewItem());
-    //    }
-    //}
 }

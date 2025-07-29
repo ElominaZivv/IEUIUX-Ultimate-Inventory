@@ -80,6 +80,11 @@ public class ItemRandomizer : MonoBehaviour
         inventoryManager.GetComponent<InventoryManager>().AddToInventory(MakeNewItem());
     }
 
+    public void AddToInventory(int index)
+    {
+        inventoryManager.GetComponent<InventoryManager>().AddToInventory(MakeNewItem());
+    }
+
     public void AddToChest()
     {
         chestManager.GetComponent<InventoryManager>().AddToInventory(MakeNewItem());

@@ -23,8 +23,8 @@ public class MainManager : MonoBehaviour
 
     public void OpenInventory()
     {
-        inventory.SetActive(true);
-        inventoryButton.SetActive(false);
+        inventory.SetActive(!inventory.activeInHierarchy);
+        inventoryButton.SetActive(!inventoryButton.activeInHierarchy);
     }
     public void ToggleChest()
     {
