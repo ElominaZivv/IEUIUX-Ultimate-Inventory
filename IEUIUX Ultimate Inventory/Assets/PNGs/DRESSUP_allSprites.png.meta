@@ -1,0 +1,1350 @@
+fileFormatVersion: 2
+guid: 9c22d9b1aa4e27444b9f32e069701651
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7735087282908466914
+    second: DRESSUP_allSprites_0
+  - first:
+      213: 1348758223242710945
+    second: DRESSUP_allSprites_1
+  - first:
+      213: -3386852125455736156
+    second: DRESSUP_allSprites_2
+  - first:
+      213: -6070153218850180900
+    second: DRESSUP_allSprites_3
+  - first:
+      213: 207795250215469107
+    second: DRESSUP_allSprites_4
+  - first:
+      213: 766855393057369471
+    second: DRESSUP_allSprites_5
+  - first:
+      213: 3997265790950630937
+    second: DRESSUP_allSprites_6
+  - first:
+      213: -134698104145361637
+    second: DRESSUP_allSprites_7
+  - first:
+      213: -1449989869832481645
+    second: DRESSUP_allSprites_8
+  - first:
+      213: 6270151998179723433
+    second: DRESSUP_allSprites_9
+  - first:
+      213: -4044085035748470950
+    second: DRESSUP_allSprites_10
+  - first:
+      213: -1808391843883605912
+    second: DRESSUP_allSprites_11
+  - first:
+      213: 4130379206010932630
+    second: DRESSUP_allSprites_12
+  - first:
+      213: 6620150102846015243
+    second: DRESSUP_allSprites_13
+  - first:
+      213: 1248458601484886082
+    second: DRESSUP_allSprites_14
+  - first:
+      213: 114350404178609925
+    second: DRESSUP_allSprites_15
+  - first:
+      213: 506461815843839088
+    second: DRESSUP_allSprites_16
+  - first:
+      213: 2428811298932214758
+    second: DRESSUP_allSprites_17
+  - first:
+      213: -4872743695961754432
+    second: DRESSUP_allSprites_18
+  - first:
+      213: 4230894163537532396
+    second: DRESSUP_allSprites_19
+  - first:
+      213: -1769666080149870783
+    second: DRESSUP_allSprites_20
+  - first:
+      213: -3766670617339183326
+    second: DRESSUP_allSprites_21
+  - first:
+      213: 2605732352523674569
+    second: DRESSUP_allSprites_22
+  - first:
+      213: 8955588417362442689
+    second: DRESSUP_allSprites_23
+  - first:
+      213: 7205835926760297388
+    second: DRESSUP_allSprites_24
+  - first:
+      213: 4911837829304983924
+    second: DRESSUP_allSprites_25
+  - first:
+      213: -4487027460678815735
+    second: DRESSUP_allSprites_26
+  - first:
+      213: -7187033804287294788
+    second: DRESSUP_allSprites_27
+  - first:
+      213: -6751277556861589561
+    second: DRESSUP_allSprites_28
+  - first:
+      213: 682449398874428348
+    second: DRESSUP_allSprites_29
+  - first:
+      213: -7901490185779922433
+    second: DRESSUP_allSprites_30
+  - first:
+      213: -6378007778310472147
+    second: DRESSUP_allSprites_31
+  - first:
+      213: 4555451337700534945
+    second: DRESSUP_allSprites_32
+  - first:
+      213: 4325534335930942887
+    second: DRESSUP_allSprites_33
+  - first:
+      213: 6105504669121603844
+    second: DRESSUP_allSprites_34
+  - first:
+      213: 5615107690366914991
+    second: DRESSUP_allSprites_35
+  - first:
+      213: 4362148553430501906
+    second: DRESSUP_allSprites_36
+  - first:
+      213: -7740740405396627915
+    second: DRESSUP_allSprites_37
+  - first:
+      213: 306051003147520101
+    second: DRESSUP_allSprites_38
+  - first:
+      213: 3386183115666988848
+    second: DRESSUP_allSprites_39
+  - first:
+      213: 4631214451634571114
+    second: DRESSUP_allSprites_40
+  - first:
+      213: 6886752784001259156
+    second: DRESSUP_allSprites_41
+  - first:
+      213: 1793316528512409044
+    second: DRESSUP_allSprites_42
+  - first:
+      213: -2570713108101713882
+    second: DRESSUP_allSprites_43
+  - first:
+      213: 1689415981935846815
+    second: DRESSUP_allSprites_44
+  - first:
+      213: -7696306980851601397
+    second: DRESSUP_allSprites_45
+  - first:
+      213: 3408722774955093944
+    second: DRESSUP_allSprites_46
+  - first:
+      213: -7481948307334301341
+    second: DRESSUP_allSprites_47
+  - first:
+      213: -2106927198330620818
+    second: DRESSUP_allSprites_48
+  - first:
+      213: -4003508353128530148
+    second: DRESSUP_allSprites_49
+  - first:
+      213: 5840974785199399129
+    second: DRESSUP_allSprites_50
+  - first:
+      213: -4612349195601869049
+    second: DRESSUP_allSprites_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1858
+        width: 184
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e117993391377a490800000000000000
+      internalID: -7735087282908466914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1851
+        width: 184
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afc4404570c7b210800000000000000
+      internalID: 1348758223242710945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2029
+        width: 77
+        height: 168
+      alignment: 9
+      pivot: {x: 1.0256752, y: 0.012366809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a22f6bafeb7ff0d0800000000000000
+      internalID: -3386852125455736156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2017
+        width: 80
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5077737, y: 0.0022842733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0bd3afecb72cba0800000000000000
+      internalID: -6070153218850180900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_4
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 2029
+        width: 124
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3304b1bddac32e200800000000000000
+      internalID: 207795250215469107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_8
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1998
+        width: 155
+        height: 119
+      alignment: 9
+      pivot: {x: 0.4497732, y: 0.261689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39458b055e990ebe0800000000000000
+      internalID: -1449989869832481645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_10
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 2032
+        width: 78
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5887869, y: 0.007512987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f4db2261680e7c0800000000000000
+      internalID: -4044085035748470950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_11
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2008
+        width: 56
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6060878, y: 0.14359985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860aa92033d47e6e0800000000000000
+      internalID: -1808391843883605912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_12
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2035
+        width: 43
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6420275, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d01f1110e025930800000000000000
+      internalID: 4130379206010932630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1463
+        width: 190
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0707e7817f7fdb50800000000000000
+      internalID: 6620150102846015243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1463
+        width: 188
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240a942cb7a635110800000000000000
+      internalID: 1248458601484886082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_15
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1568
+        width: 77
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5070df43611469100800000000000000
+      internalID: 114350404178609925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_16
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1563
+        width: 72
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cdba19650570700800000000000000
+      internalID: 506461815843839088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_17
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1542
+        width: 140
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46565202, y: 0.21144897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb4f4b020fd4b120800000000000000
+      internalID: 2428811298932214758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_18
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1563
+        width: 111
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4fca8ec69806cb0800000000000000
+      internalID: -4872743695961754432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_19
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1566
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.54704666, y: 0.0053006024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce59de353d727ba30800000000000000
+      internalID: 4230894163537532396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_20
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1538
+        width: 145
+        height: 102
+      alignment: 9
+      pivot: {x: 0.46625304, y: 0.26383942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147eb918312e077e0800000000000000
+      internalID: -1769666080149870783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_21
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1545
+        width: 137
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4406578, y: 0.21870245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fb89bb7091abbc0800000000000000
+      internalID: -3766670617339183326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1031
+        width: 118
+        height: 108
+      alignment: 9
+      pivot: {x: 0.629618, y: 0.19230895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3aae3d4cb692420800000000000000
+      internalID: 2605732352523674569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_23
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 973
+        width: 110
+        height: 161
+      alignment: 9
+      pivot: {x: 0.6095481, y: 0.43666598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9bd738734a84c70800000000000000
+      internalID: 8955588417362442689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_24
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 979
+        width: 105
+        height: 168
+      alignment: 9
+      pivot: {x: 0.552968, y: 0.49448213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca39b44e895400460800000000000000
+      internalID: 7205835926760297388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_25
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1052
+        width: 158
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5791997, y: -0.000002347506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471ac025b7a5a2440800000000000000
+      internalID: 4911837829304983924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_26
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 969
+        width: 92
+        height: 168
+      alignment: 9
+      pivot: {x: 0.64105886, y: 0.4944814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f0dc3c40eab1c0800000000000000
+      internalID: -4487027460678815735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_27
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1017
+        width: 121
+        height: 128
+      alignment: 9
+      pivot: {x: 0.6149075, y: 0.34791756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb24bb265d6824c90800000000000000
+      internalID: -7187033804287294788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_28
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 989
+        width: 122
+        height: 141
+      alignment: 9
+      pivot: {x: 0.61776584, y: 0.4934238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a233f4d4ae42a0800000000000000
+      internalID: -6751277556861589561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_29
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 491
+        width: 134
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3d61dcc1c887900800000000000000
+      internalID: 682449398874428348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_31
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 491
+        width: 128
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e302fb7b3cc77a0800000000000000
+      internalID: -6378007778310472147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_33
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 488
+        width: 130
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54be49f82670c30800000000000000
+      internalID: 4325534335930942887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_35
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 494
+        width: 134
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa152ebb1bedced40800000000000000
+      internalID: 5615107690366914991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_37
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 486
+        width: 139
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e12dd0d9d539490800000000000000
+      internalID: -7740740405396627915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_39
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 490
+        width: 135
+        height: 98
+      alignment: 9
+      pivot: {x: 0.51503, y: 0.01656513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f91c95a932efe20800000000000000
+      internalID: 3386183115666988848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_41
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 491
+        width: 126
+        height: 57
+      alignment: 9
+      pivot: {x: 0.50718665, y: 0.051630925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d3526b29a29f50800000000000000
+      internalID: 6886752784001259156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_43
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 148
+        width: 115
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62038246c0ef25cd0800000000000000
+      internalID: -2570713108101713882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_44
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 90
+        width: 115
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5269361, y: 0.5917879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95672972e2027710800000000000000
+      internalID: 1689415981935846815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_45
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 100
+        width: 151
+        height: 241
+      alignment: 9
+      pivot: {x: 0.46579766, y: 0.55998635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b003bf3e399313590800000000000000
+      internalID: -7696306980851601397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_46
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 142
+        width: 137
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6bfabd473e4f20800000000000000
+      internalID: 3408722774955093944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_48
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 192
+        width: 90
+        height: 114
+      alignment: 9
+      pivot: {x: 0.43247613, y: 0.32609075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64f4e740e0b2c2e0800000000000000
+      internalID: -2106927198330620818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_49
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 179
+        width: 147
+        height: 151
+      alignment: 9
+      pivot: {x: 0.43944982, y: 0.3157973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ff6744d5ea078c0800000000000000
+      internalID: -4003508353128530148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_51
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 178
+        width: 125
+        height: 143
+      alignment: 9
+      pivot: {x: 0.41220802, y: 0.2953774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707871808d4adffb0800000000000000
+      internalID: -4612349195601869049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2142
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ae6298774b424ca4170bffc3f41a4
+      internalID: 766855393057369471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_6
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2144
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006bb4a58825b024ca0e0bb12b4e42c2
+      internalID: 3997265790950630937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_7
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1976
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86b4dead329b134bae3d4cc766ee2da
+      internalID: -134698104145361637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_9
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2061
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b50236092f880f41ad1568e738465d9
+      internalID: 6270151998179723433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_30
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2138
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c22ed40a7d54f40b8e604617c86689
+      internalID: -7901490185779922433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_32
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 2061
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e123dc6f66c90f54b949b3b37601f0d1
+      internalID: 4555451337700534945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DRESSUP_allSprites_34
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1053
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc387611878b742969567570eb1548
+      internalID: 6105504669121603844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cbc28a17574d40049bd039f250a1f0c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DRESSUP_allSprites_0: -7735087282908466914
+      DRESSUP_allSprites_1: 1348758223242710945
+      DRESSUP_allSprites_10: -4044085035748470950
+      DRESSUP_allSprites_11: -1808391843883605912
+      DRESSUP_allSprites_12: 4130379206010932630
+      DRESSUP_allSprites_13: 6620150102846015243
+      DRESSUP_allSprites_14: 1248458601484886082
+      DRESSUP_allSprites_15: 114350404178609925
+      DRESSUP_allSprites_16: 506461815843839088
+      DRESSUP_allSprites_17: 2428811298932214758
+      DRESSUP_allSprites_18: -4872743695961754432
+      DRESSUP_allSprites_19: 4230894163537532396
+      DRESSUP_allSprites_2: -3386852125455736156
+      DRESSUP_allSprites_20: -1769666080149870783
+      DRESSUP_allSprites_21: -3766670617339183326
+      DRESSUP_allSprites_22: 2605732352523674569
+      DRESSUP_allSprites_23: 8955588417362442689
+      DRESSUP_allSprites_24: 7205835926760297388
+      DRESSUP_allSprites_25: 4911837829304983924
+      DRESSUP_allSprites_26: -4487027460678815735
+      DRESSUP_allSprites_27: -7187033804287294788
+      DRESSUP_allSprites_28: -6751277556861589561
+      DRESSUP_allSprites_29: 682449398874428348
+      DRESSUP_allSprites_3: -6070153218850180900
+      DRESSUP_allSprites_30: -7901490185779922433
+      DRESSUP_allSprites_31: -6378007778310472147
+      DRESSUP_allSprites_32: 4555451337700534945
+      DRESSUP_allSprites_33: 4325534335930942887
+      DRESSUP_allSprites_34: 6105504669121603844
+      DRESSUP_allSprites_35: 5615107690366914991
+      DRESSUP_allSprites_36: 4362148553430501906
+      DRESSUP_allSprites_37: -7740740405396627915
+      DRESSUP_allSprites_38: 306051003147520101
+      DRESSUP_allSprites_39: 3386183115666988848
+      DRESSUP_allSprites_4: 207795250215469107
+      DRESSUP_allSprites_40: 4631214451634571114
+      DRESSUP_allSprites_41: 6886752784001259156
+      DRESSUP_allSprites_42: 1793316528512409044
+      DRESSUP_allSprites_43: -2570713108101713882
+      DRESSUP_allSprites_44: 1689415981935846815
+      DRESSUP_allSprites_45: -7696306980851601397
+      DRESSUP_allSprites_46: 3408722774955093944
+      DRESSUP_allSprites_47: -7481948307334301341
+      DRESSUP_allSprites_48: -2106927198330620818
+      DRESSUP_allSprites_49: -4003508353128530148
+      DRESSUP_allSprites_5: 766855393057369471
+      DRESSUP_allSprites_50: 5840974785199399129
+      DRESSUP_allSprites_51: -4612349195601869049
+      DRESSUP_allSprites_6: 3997265790950630937
+      DRESSUP_allSprites_7: -134698104145361637
+      DRESSUP_allSprites_8: -1449989869832481645
+      DRESSUP_allSprites_9: 6270151998179723433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

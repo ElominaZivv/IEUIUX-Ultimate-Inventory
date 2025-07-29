@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: fe7e115b24ece5e48847aed1db18c2cc
+guid: c67ead4c243f4b64f821e8c106c8544d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 511410084157380405
-    second: Sort_0
-  - first:
-      213: -8359916469254019477
-    second: Sort_1
+      213: -5281422124547630143
+    second: Chest_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -155,13 +152,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sort_0
+      name: Chest_0
       rect:
         serializedVersion: 2
-        x: 187
-        y: 753
-        width: 3563
-        height: 3072
+        x: 218
+        y: 276
+        width: 3519
+        height: 3105
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,30 +167,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 537d0c013c4e81700800000000000000
-      internalID: 511410084157380405
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sort_1
-      rect:
-        serializedVersion: 2
-        x: 623
-        y: 139
-        width: 3250
-        height: 2423
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b662d22934c9bfb80800000000000000
-      internalID: -8359916469254019477
+      spriteID: 1cb13755f8e94b6b0800000000000000
+      internalID: -5281422124547630143
       vertices: []
       indices: 
       edges: []
@@ -202,7 +177,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -211,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chest_0: -5281422124547630143
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
