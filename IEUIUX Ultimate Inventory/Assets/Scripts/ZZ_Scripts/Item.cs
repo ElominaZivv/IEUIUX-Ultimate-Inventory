@@ -9,6 +9,7 @@ public class Item : ScriptableObject
     public Sprite image;
     public string name;
     public ItemCategory itemCategory;
+    public ItemRarity itemRarity;
 
     [Header("UI")]
     public bool stackable = true;
@@ -18,3 +19,8 @@ public enum ItemCategory
 {
     Armour, Weapon, Potion
 }
+public enum ItemRarity
+{
+    Common, Uncommon, Rare, Epic, Legendary, Mythic
+}
+

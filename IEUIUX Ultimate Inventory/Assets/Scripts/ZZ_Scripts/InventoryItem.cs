@@ -56,5 +56,6 @@ public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
     {
         image.raycastTarget = true;
         transform.SetParent(parentAfterDrag);
+        EventBroadcaster.Instance.PostEvent(EventNames.INVENTORY_ITEM_DRAG_DROP);
     }
 }

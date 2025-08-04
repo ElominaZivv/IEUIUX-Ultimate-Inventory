@@ -9,6 +9,7 @@ public class EventNames
 {
 	// Inventory Stuff
 	public const string INVENTORY_ITEM_HOVER_ENTER = "INVENTORY_ITEM_HOVER_ENTER";
+	public const string INVENTORY_ITEM_DRAG_DROP = "INVENTORY_ITEM_DRAG_DROP";
 }
 
 

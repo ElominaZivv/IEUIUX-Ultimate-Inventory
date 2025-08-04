@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab1f22a25fb8ea8478e19832532eedc0, type: 3}
-  m_Name: Sneakers
+  m_Name: Necklace
   m_EditorClassIdentifier: 
-  image: {fileID: 6886752784001259156, guid: 9c22d9b1aa4e27444b9f32e069701651, type: 3}
-  name: Sneakers
+  image: {fileID: 4130379206010932630, guid: 9c22d9b1aa4e27444b9f32e069701651, type: 3}
+  name: Necklace
   itemCategory: 0
-  itemRarity: 1
+  itemRarity: 2
   stackable: 1
