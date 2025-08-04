@@ -8,6 +8,7 @@ public class SIGMABOY : MonoBehaviour
     public void collectItem(int id)
     {
         bool result = invFunc.AddItem(collectedItems[id]);
+        /*
         if (result == true)
         {
             Debug.Log("Item Added");
@@ -16,5 +17,6 @@ public class SIGMABOY : MonoBehaviour
         {
             Debug.Log("Inventory Full! Item NOT added");
         }
+        */
     }
 }

@@ -7,6 +7,7 @@ using UnityEngine.EventSystems;
 public class Item : ScriptableObject
 {
     public Sprite image;
+    public string name;
     public ItemCategory itemCategory;
 
     [Header("UI")]

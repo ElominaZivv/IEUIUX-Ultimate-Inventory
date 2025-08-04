@@ -34,7 +34,9 @@ public class InventoryItem : MonoBehaviour, IBeginDragHandler, IDragHandler, IEn
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        Debug.Log("The cursor hovered over moi");
+        Parameters param = new Parameters();
+        param.PutExtra(ParamNames.ITEM_DATA, item);
+        EventBroadcaster.Instance.PostEvent(EventNames.INVENTORY_ITEM_HOVER_ENTER, param);
     }
 
     //Drag and Drop

@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Soda
   m_EditorClassIdentifier: 
   image: {fileID: 3997265790950630937, guid: 9c22d9b1aa4e27444b9f32e069701651, type: 3}
+  name: Soda
   itemCategory: 2
   stackable: 1
