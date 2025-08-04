@@ -16,4 +16,5 @@ MonoBehaviour:
   name: Sneakers
   itemCategory: 0
   itemRarity: 1
+  description: Sqweaky too
   stackable: 1

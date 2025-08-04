@@ -16,4 +16,5 @@ MonoBehaviour:
   name: Necklace
   itemCategory: 0
   itemRarity: 2
+  description: pertty
   stackable: 1

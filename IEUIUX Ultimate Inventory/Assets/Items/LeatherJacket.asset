@@ -15,4 +15,6 @@ MonoBehaviour:
   image: {fileID: -134698104145361637, guid: 9c22d9b1aa4e27444b9f32e069701651, type: 3}
   name: Leather Jacket
   itemCategory: 0
+  itemRarity: 0
+  description: rough and sticky
   stackable: 1

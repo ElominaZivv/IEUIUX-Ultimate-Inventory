@@ -16,4 +16,5 @@ MonoBehaviour:
   name: Gangrene's Armour
   itemCategory: 0
   itemRarity: 5
+  description: Unparalleled aura
   stackable: 1

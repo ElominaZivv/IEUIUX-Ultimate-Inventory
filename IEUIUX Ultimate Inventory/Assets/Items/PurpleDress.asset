@@ -16,4 +16,5 @@ MonoBehaviour:
   name: Purple Dress
   itemCategory: 0
   itemRarity: 3
+  description: Cute!!!
   stackable: 1

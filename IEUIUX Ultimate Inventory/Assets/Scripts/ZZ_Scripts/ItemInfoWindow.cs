@@ -10,10 +10,14 @@ public class ItemInfoWindow : MonoBehaviour
     public Sprite itemImage;
     public string itemName;
     public string itemCategory;
+    public string itemRarity;
+    public string itemDescription;
 
     [SerializeField] Image displayItemImage;
     [SerializeField] Text displayItemName;
     [SerializeField] Text displayItemCategory;
+    [SerializeField] Text displayItemRarity;
+    [SerializeField] Text displayItemDescription;
 
 
     private void Start()
@@ -22,6 +26,8 @@ public class ItemInfoWindow : MonoBehaviour
 
         displayItemName.text = " ";
         displayItemCategory.text = " ";
+        displayItemRarity.text = " ";
+        displayItemDescription.text = " ";
     }
 
     private void OnDestroy()
@@ -35,6 +41,8 @@ public class ItemInfoWindow : MonoBehaviour
         itemImage = item.image;
         itemName = item.name;
         itemCategory = item.itemCategory.ToString();
+        itemRarity = item.itemRarity.ToString();
+        itemDescription = item.description;
         RefreshDisplayData();
     }
 
@@ -43,5 +51,7 @@ public class ItemInfoWindow : MonoBehaviour
         displayItemImage.sprite = itemImage;
         displayItemName.text = itemName;
         displayItemCategory.text = itemCategory;
+        displayItemRarity.text = itemRarity;
+        displayItemDescription.text = itemDescription;
     }
 }

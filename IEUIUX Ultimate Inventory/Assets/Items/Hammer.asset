@@ -15,4 +15,6 @@ MonoBehaviour:
   image: {fileID: 21300000, guid: 1979c0b5eada12746a1f8c2bf24fc07c, type: 3}
   name: Hammer
   itemCategory: 1
+  itemRarity: 0
+  description: ...of justice
   stackable: 1

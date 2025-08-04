@@ -11,6 +11,7 @@ public class Item : ScriptableObject
     public ItemCategory itemCategory;
     public ItemRarity itemRarity;
 
+    public string description;
     [Header("UI")]
     public bool stackable = true;
 }

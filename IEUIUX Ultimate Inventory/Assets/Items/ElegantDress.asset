@@ -16,4 +16,5 @@ MonoBehaviour:
   name: Elegant Dress
   itemCategory: 0
   itemRarity: 4
+  description: It looks elegant
   stackable: 1
