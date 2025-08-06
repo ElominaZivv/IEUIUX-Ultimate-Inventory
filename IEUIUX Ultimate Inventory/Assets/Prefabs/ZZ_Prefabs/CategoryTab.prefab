@@ -18,7 +18,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2024987027242412004
 RectTransform:
   m_ObjectHideFlags: 0
@@ -87,7 +87,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 0}
+  m_TargetGraphic: {fileID: 2328970401177967300}
   m_TextViewport: {fileID: 6876176288020637826}
   m_TextComponent: {fileID: 7462311846654345061}
   m_Placeholder: {fileID: 7617740211276963121}
