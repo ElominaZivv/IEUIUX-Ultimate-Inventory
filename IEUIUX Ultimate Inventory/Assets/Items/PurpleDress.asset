@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PurpleDress
   m_EditorClassIdentifier: 
   image: {fileID: -4003508353128530148, guid: 9c22d9b1aa4e27444b9f32e069701651, type: 3}
-  name: Purple Dress
+  itemName: Purple Dress
   itemCategory: 0
   itemRarity: 3
   description: Cute!!!

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Necklace
   m_EditorClassIdentifier: 
   image: {fileID: 4130379206010932630, guid: 9c22d9b1aa4e27444b9f32e069701651, type: 3}
-  name: Necklace
+  itemName: Necklace
   itemCategory: 0
   itemRarity: 2
-  description: pertty
+  description: Shines hues of yellow
   stackable: 1

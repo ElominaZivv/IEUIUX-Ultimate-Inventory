@@ -7,7 +7,7 @@ using UnityEngine.EventSystems;
 public class Item : ScriptableObject
 {
     public Sprite image;
-    public string name;
+    public string itemName;
     public ItemCategory itemCategory;
     public ItemRarity itemRarity;
 

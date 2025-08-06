@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class InventoryFunc : MonoBehaviour
 {
-    public int maxStackedItems = 999999999;
+    public int maxStackedItems = 7;
     public InventorySlot[] inventorySlots;
     public GameObject inventoryItemPrefab;
     public bool AddItem(Item item)
@@ -20,6 +20,7 @@ public class InventoryFunc : MonoBehaviour
             {
                 itemInSlot.count++;
                 itemInSlot.RefreshCount();
+                EventBroadcaster.Instance.PostEvent(EventNames.INVENTORY_SLOT_UPDATE_BACKGROUND_COLOR);
                 return true;
             }
         }
@@ -31,6 +32,7 @@ public class InventoryFunc : MonoBehaviour
             if (itemInSlot == null)
             {
                 SpawnNewItem(item, slot);
+                EventBroadcaster.Instance.PostEvent(EventNames.INVENTORY_SLOT_UPDATE_BACKGROUND_COLOR);
                 return true;
             }
         }

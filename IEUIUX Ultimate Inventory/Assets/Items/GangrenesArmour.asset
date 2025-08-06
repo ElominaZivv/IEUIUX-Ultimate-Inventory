@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GangrenesArmour
   m_EditorClassIdentifier: 
   image: {fileID: -7696306980851601397, guid: 9c22d9b1aa4e27444b9f32e069701651, type: 3}
-  name: Gangrene's Armour
+  itemName: Gangrene's Armour
   itemCategory: 0
   itemRarity: 5
   description: Unparalleled aura

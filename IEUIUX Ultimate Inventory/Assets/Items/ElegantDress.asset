@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ElegantDress
   m_EditorClassIdentifier: 
   image: {fileID: 3408722774955093944, guid: 9c22d9b1aa4e27444b9f32e069701651, type: 3}
-  name: Elegant Dress
+  itemName: Elegant Dress
   itemCategory: 0
   itemRarity: 4
   description: It looks elegant

@@ -12,17 +12,29 @@ public class InventorySlot : MonoBehaviour, IDropHandler
     private void Start()
     {
         EventBroadcaster.Instance.AddObserver(EventNames.INVENTORY_ITEM_DRAG_DROP, this.UpdateBackgroundColor);
+        EventBroadcaster.Instance.AddObserver(EventNames.INVENTORY_SLOT_UPDATE_BACKGROUND_COLOR, this.UpdateBackgroundColor);
     }
 
     private void OnDestroy()
     {
         EventBroadcaster.Instance.RemoveObserver(EventNames.INVENTORY_ITEM_DRAG_DROP);
+        EventBroadcaster.Instance.RemoveObserver(EventNames.INVENTORY_SLOT_UPDATE_BACKGROUND_COLOR);
     }
 
     private void UpdateBackgroundColor()
     {
-        /*
-        ItemRarity itemRarity = inventoryItem.item.itemRarity;
+        ItemRarity itemRarity;
+        InventoryItem itemInSlot = this.GetComponentInChildren<InventoryItem>();
+        if (itemInSlot!=null)
+        {
+            itemRarity = itemInSlot.item.itemRarity;
+        }
+        else
+        {
+            image.color = defaultColor;
+            return;
+        }
+
         // Common, Uncommon, Rare, Epic, Legendary, Mythic
         if (itemRarity == ItemRarity.Common)
         {
@@ -52,12 +64,11 @@ public class InventorySlot : MonoBehaviour, IDropHandler
         {
             image.color = defaultColor;
         }
-        */
     }
 
     public void OnDrop(PointerEventData eventData)
     {
-        if (transform.childCount == 0)
+        if (transform.childCount == 1)
         {
             InventoryItem inventoryItem = eventData.pointerDrag.GetComponent<InventoryItem>();
             inventoryItem.parentAfterDrag = transform;

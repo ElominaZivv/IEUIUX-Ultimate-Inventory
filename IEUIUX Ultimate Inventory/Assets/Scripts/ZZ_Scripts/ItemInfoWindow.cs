@@ -39,7 +39,7 @@ public class ItemInfoWindow : MonoBehaviour
     {
         item = param.GetItemExtra(ParamNames.ITEM_DATA);
         itemImage = item.image;
-        itemName = item.name;
+        itemName = item.itemName;
         itemCategory = item.itemCategory.ToString();
         itemRarity = item.itemRarity.ToString();
         itemDescription = item.description;
